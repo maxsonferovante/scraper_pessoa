@@ -1,12 +1,12 @@
 # Scraper Arquivo Pessoa
 
-Web scraper para extrair poesias do Arquivo Pessoa com Clean Architecture.
+Web scraper para extrair poesias do Arquivo Pessoa com Playwright e Beautiful Soup 4 .
 
 ## Instalação
 
 ### Pré-requisitos
 
-- Python 3.10+
+- Python 3.14
 - UV (gerenciador de pacotes)
 
 ### Passos
